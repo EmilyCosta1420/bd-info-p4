@@ -1,2 +1,2 @@
 # bd-info-p4
-Repositorio de atividades de banco de dados
+Repositorio das atividades e avaliaçoes de banco de dados
